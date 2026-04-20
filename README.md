@@ -16,19 +16,6 @@ I am interested in web development and various types of automation, such as buil
   </a>
 </p>
 
-### Socials
-<p align="center">
-  <a href="https://github.com/tanawat-io" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" width="38" height="38" alt="GitHub" />
-  </a>
-  <a href="https://discord.com/users/thisgxhh" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=discord" width="38" height="38" alt="Discord" />
-  </a>
-  <a href="https://www.facebook.com/fluke.tanawat.2024" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=facebook" width="38" height="38" alt="Facebook" />
-  </a>
-</p>
-
 ### Top Languages
 <a href="https://github.com/tanawat-io">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanawat-io&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
