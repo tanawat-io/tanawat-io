@@ -1,6 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tanawat Pokkantha
+### **Hi  My name is Tanawat Pokkantha**
 
-==========================================================================================================================================
+============================================================================================
 
 ### Developer
 I am interested in web development and various types of automation, such as building bots, training AI models, and creating automated systems.
@@ -17,30 +17,17 @@ I am interested in web development and various types of automation, such as buil
 </p>
 
 ### Socials
-<p align="left">
+<p align="center">
   <a href="https://github.com/tanawat-io" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-    </picture>
+    <img src="https://skillicons.dev/icons?i=github" width="38" height="38" alt="GitHub" />
   </a>
   <a href="https://discord.com/users/thisgxhh" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
-    </picture>
+    <img src="https://skillicons.dev/icons?i=discord" width="38" height="38" alt="Discord" />
   </a>
   <a href="https://www.facebook.com/fluke.tanawat.2024" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" />
-    </picture>
+    <img src="https://skillicons.dev/icons?i=facebook" width="38" height="38" alt="Facebook" />
   </a>
 </p>
-
 
 ### Top Languages
 <a href="https://github.com/tanawat-io">
